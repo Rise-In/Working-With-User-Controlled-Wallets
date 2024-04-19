@@ -3,7 +3,7 @@
 This repository is a tutorial for `how to work with user controlled wallets with Circle Api`.
 
 To use this tutorial, you should already have created a user controlled wallet.
-_This tutorial is a follow up from the previous tutorial which explained `how to create user controlled wallets on Circle`. It can be found in [this repository](https://github.com/Rise-In/User-Controlled-Wallets)_
+_This tutorial is a follow up from the previous tutorial which explained `how to create user controlled wallets on Circle`. It can be found in [this repository](https://github.com/Rise-In/User-Controlled-Wallets.git)_
 
 - Next tutorial can be found [here](https://github.com/Rise-In/Gas-Station.git)
 
@@ -34,6 +34,3 @@ To run the files in different folders, you can call `npm run <name_of_the_folder
 
 Notice that the code in each file requires different information like Api Keys. You need to put yours to be able to use it. If you do not have the necessary variables, you can follow this tutorial, which is prerequisite for this one `https://github.com/SimonYuvarlak/User-Controlled-Wallets.git`.
 
-## Note
-
-There can be typos in the tutorial, a common one is using 'challange' instead of 'challenge'.
