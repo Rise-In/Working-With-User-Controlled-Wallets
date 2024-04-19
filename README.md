@@ -3,9 +3,9 @@
 This repository is a tutorial for `how to work with user controlled wallets with Circle Api`.
 
 To use this tutorial, you should already have created a user controlled wallet.
-_This tutorial is a follow up from the previous tutorial which explained `how to create user controlled wallets on Circle`. It can be found in [this repository](https://github.com/SimonYuvarlak/User-Controlled-Wallets.git)_
+_This tutorial is a follow up from the previous tutorial which explained `how to create user controlled wallets on Circle`. It can be found in [this repository](https://github.com/Rise-In/User-Controlled-Wallets)_
 
-- Next tutorial can be found [here](https://github.com/SimonYuvarlak/Gas-Station.git)
+- Next tutorial can be found [here](https://github.com/Rise-In/Gas-Station.git)
 
 In this repository you will find different folders.
 
